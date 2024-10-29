@@ -108,8 +108,8 @@ dependencies:
     specifier: ^15.5.0
     version: 15.5.0(react@18.2.0)
   react-textarea-autosize:
-    specifier: ^8.5.3
-    version: 8.5.3(@types/react@18.2.48)(react@18.2.0)
+    specifier: ^8.5.4
+    version: 8.5.4(@types/react@18.2.48)(react@18.2.0)
   remark-gfm:
     specifier: ^3.0.1
     version: 3.0.1
@@ -4743,8 +4743,8 @@ packages:
       refractor: 3.6.0
     dev: false
 
-  /react-textarea-autosize@8.5.3(@types/react@18.2.48)(react@18.2.0):
-    resolution: {integrity: sha512-XT1024o2pqCuZSuBt9FwHlaDeNtVrtCXu0Rnz88t1jUGheCLa3PhjE1GH8Ctm2axEtvdCl5SUHYschyQ0L5QHQ==}
+  /react-textarea-autosize@8.5.4(@types/react@18.2.48)(react@18.2.0):
+    resolution: {integrity: sha512-eSSjVtRLcLfFwFcariT77t9hcbVJHQV76b51QjQGarQIHml2+gM2lms0n3XrhnDmgK5B+/Z7TmQk5OHNzqYm/A==}
     engines: {node: '>=10'}
     peerDependencies:
       react: ^16.8.0 || ^17.0.0 || ^18.0.0
